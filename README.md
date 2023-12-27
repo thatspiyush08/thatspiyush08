@@ -62,7 +62,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size:80px">☕
-Wonna Sponser a Coffee</h1>
+Wanna Sponser a Coffee</h1>
 
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/thats_piyush08) 
