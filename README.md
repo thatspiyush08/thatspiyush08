@@ -2,8 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600;700&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
 
----
-[![](https://visitcount.itsvg.in/api?id=thatspiyush08&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatspiyush08&label=Profile%20views&color=0e75b6&style=flat"  /> </p><br>
 
 
 
