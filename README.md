@@ -38,7 +38,6 @@
   />
 </picture>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size:80px">📊 My GitHub Stats:</h1>
 <div align="center">
 <a href="https://github.com/THATSPIYUSH08">
