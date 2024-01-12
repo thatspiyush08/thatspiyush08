@@ -35,7 +35,7 @@
 [![skills](https://skills.thijs.gg/icons?i=github,git,vscode,photoshop,postman,figma,stackoverflow&perline=13)](#)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size:100px"> ✨️ My Contributions </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size:60px"> ✨️ My Contributions </h1>
 
 <picture align="centre">
   <source
