@@ -32,7 +32,7 @@
 
 ### **💻 Tech Stack:**  
 
-[![skills](https://skills.thijs.gg/icons?i=cpp,c,python,java,html,css,js,react&perline=13)](#)
+[![skills](https://skills.thijs.gg/icons?i=cpp,c,python,java,html,css,js,react,rust&perline=13)](#)
 [![skills](https://skills.thijs.gg/icons?i=expressjs,nodejs,mongodb,postman,mysql,github&perline=13)](#)
 [![skills](https://skills.thijs.gg/icons?i=git,vscode,photoshop&perline=13)](#)
 [![skills](https://skills.thijs.gg/icons?i=figma,stackoverflow&perline=13)](#)
