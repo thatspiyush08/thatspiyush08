@@ -13,7 +13,10 @@
 <br>
 🤝 I'm open for collaboration on Java , Javascript and NodeJS.<br>
 👩‍🎓 I'm currently learning React.<br>💬 Let's talk about tech.<br>⚡️ Hope to collaborate soon.<br>
-<img src='https://randommeme-five.vercel.app/' style="height: 300px; width:300px" align="right">
+
+<img src="https://api.memegen.link/images/atis/and_then_i_said/the_exam_will_only_contain_what_we've_covered_in_lectures.png" style="height: 300px; width:300px" align="right">
+
+
 
 ## 🌐 Socials:
 
@@ -32,10 +35,10 @@
 
 ### **💻 Tech Stack:**  
 
-[![skills](https://skills.thijs.gg/icons?i=cpp,c,python,java,html,css,js,react,rust&perline=13)](#)
-[![skills](https://skills.thijs.gg/icons?i=expressjs,nodejs,mongodb,postman,mysql,github&perline=13)](#)
-[![skills](https://skills.thijs.gg/icons?i=git,vscode,photoshop&perline=13)](#)
-[![skills](https://skills.thijs.gg/icons?i=figma,stackoverflow&perline=13)](#)
+
+[![skills](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![skills](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) [![skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) [![skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) [![skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![skills](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#) [![skills](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#) 
+[![skills](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#) [![skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#) [![skills](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![skills](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#) [![skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![skills](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) 
+[![skills](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#) [![skills](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](#) [![skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#) [![skills](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size:60px"> ✨️ My Contributions </h1>
